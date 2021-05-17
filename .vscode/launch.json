@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Pares",
+      "request": "launch",
+      "mainClass": "Pares",
+      "projectName": "scripts_dcacfb05"
+    },
+    {
+      "type": "java",
       "name": "Launch hola",
       "request": "launch",
       "mainClass": "hola",
